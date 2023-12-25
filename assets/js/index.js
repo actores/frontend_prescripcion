@@ -34,3 +34,4 @@ const dataTableOptions = {
 }
 
 dataTable = $("#test").DataTable(dataTableOptions);
+dataTable = $("#test2").DataTable(dataTableOptions);

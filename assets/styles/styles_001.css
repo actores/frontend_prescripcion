@@ -78,6 +78,10 @@
     background-color: var(--quaternary-color);
 }
 
+.navbar .nav_actores{
+    color: var(--nonary-color) !important;
+}
+
 .navbar .container {
     display: flex;
     justify-content: center;
@@ -85,7 +89,7 @@
 }
 
 .section__one {
-    margin-top: 6rem;
+    margin-top: 1rem;
 }
 
 .section__one .title__main {
@@ -175,6 +179,7 @@
 
 .section__three .contend__title__section {
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 .section__three .subtitle__main {
