@@ -13,6 +13,7 @@
     --octonary-color: #565656;
     --nonary-color: #000000;
     --denary-color: #F5F5F5;
+    --eleventh-color:#EE4028;
 
     /*size font styles*/
     --light: 300;
@@ -70,7 +71,7 @@
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1100px;
 }
 
 .navbar {
@@ -89,8 +90,8 @@
 
 .section__one .title__main {
     font-family: 'Montserrat-black';
-    font-size: 3rem;
-    line-height: 2.8rem;
+    font-size: 4rem;
+    line-height: 3.5rem;
     color: var(--quinary-color);
     margin-bottom: 8px;
 }
@@ -112,7 +113,7 @@
 
 .section__two .subtitle__main {
     font-family: 'Montserrat-black';
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: var(--senary-color);
 }
 
@@ -178,7 +179,7 @@
 
 .section__three .subtitle__main {
     font-family: 'Montserrat-black';
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: var(--senary-color);
 }
 
